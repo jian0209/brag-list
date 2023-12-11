@@ -102,3 +102,18 @@
 1. Learn more, practice more, experiment, trial and error
 2. Understand the deep reasons
 3. Dont just stay on the surface when encountering problems
+
+# New Bluetooth Flaw Let Hackers Take Over Devices
+
+[Reference from thehackernews](https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html?_m=3n%2e009a%2e3220%2ene0ao45e79%2e27nu)
+
+- CVE-2023-45866
+- This issue is related to the case of authentication bypass that enables attackers to connect to susceptible devices and inject keystrokes to achiueve code execution as the victim.
+- "Multiple Bluetooth stacks have authentication bypass vulnerabilities that permit an attacker to connect to a discoverable host without user confirmation and inject keystrokes." - Marc Newlin
+- The attack taking advantages the target device with "unauthenticated pairing mechanism", such as keyboard, mouse, smart lock, that using bluetooth.
+- Attacker connected sucessfully to the target device, attacker can inject keystrokes to install apps and run arbitrary commands.
+- Attacker can just performe the attack using Linux computer with a regular Bluetooth adapter. It is not require any specilized hardware.
+- The vulnerability affects a wide range of devices running Android, Linux, iOS, and macOS.
+- The bug affects macOS and iOS when Bluetooth is enabled and a Magic Keyboard has been paired with the victim's device.
+- Also works on Apple's LockDown mode.
+- "could lead to remote (proximal/adjacent) escalation of privilege with no additional execution privileges needed." - Google
