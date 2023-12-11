@@ -1,5 +1,5 @@
 
-# How to grow from senior to lead role [2023-12-11 Mon]
+# How to grow from senior to lead role
 
 [Reference from TLDR gmail](https://newsletter.eng-leadership.com/p/how-to-grow-from-senior-to-a-lead?r=2bjtip)
 
@@ -31,3 +31,74 @@
 	- “Sitting back and not asking for feedback is the worst thing you can do as an engineer. If you want to improve, there has to be a constant feedback loop.” — Ankur Tyagi
 	- “The brag list will also help jog your memory for writing resumes and answering behavior and technical deep dive interviews.” — Mike Thornton
 	- “Find opportunities and ask for them instead of waiting to be given.” — Anemari Fiser
+
+# Work Place (TS) Senior Experience
+## chinese
+
+### 三大纪律
+
+- 未经授权别操作
+- 变更不要在白天
+- 预期有异赶紧停
+
+### 八项注意
+
+- 安全规范记心头
+- 数据安全大过天
+- 应急预案必须有
+- 分析复盘要及时
+- 出现故障先通报
+- 技术经理快到厂
+- 恢复业务是首要
+- 客户满意最优先
+
+### 建议
+
+- 机器管理上面的事情
+- 建立在一个运维的系统之上
+- 自动化
+- 优化，运用，中间件
+- 备份，安装，故障处理
+- 工作原理
+- 优化系统
+- query 怎么去运作
+- 了解中间件的原理
+
+1. 多学习，多实践，实验，试错
+2. 理解深处的原因
+3. 遇到问题不要只停留在表面
+
+## english
+
+### Top 3 rules
+
+- Dont operate without authorization
+- Dont change during the day
+- Stop when there is an exception
+
+### Top 8 attentions
+
+- Safety regulations are in mind
+- Data security is the most important thing
+- There must have an emergency plan (Plan B)
+- Analyze and review in time
+- Report to the manager when there is an exception
+- The manager should come to the scene as soon as possible
+- Restore business is the top priority
+- Customer satisfaction is the top priority
+
+### Suggestions
+
+- Machine management
+- Build on top of an operation and maintenance system
+- Automation
+- Optimization, application, middleware
+- Backup, installation, fault handling
+- Working principle
+- Optimize the system
+- How query works
+- Understand the principle of middleware
+
+1. Learn more, practice more, experiment, trial and error
+2. Understand the deep reasons
+3. Dont just stay on the surface when encountering problems
