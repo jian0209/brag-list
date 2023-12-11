@@ -1,7 +1,7 @@
-[]: # (path=brag-list/2023/dec/11/note.md)
+
 # How to grow from senior to lead role [2023-12-11 Mon]
 
-[Reference](https://newsletter.eng-leadership.com/p/how-to-grow-from-senior-to-a-lead?r=2bjtip)
+[Reference from TLDR gmail](https://newsletter.eng-leadership.com/p/how-to-grow-from-senior-to-a-lead?r=2bjtip)
 
 - After grown to senior engineering position, might feel ecstatic.
 	- First thing to think, what else can learn and grow more.
