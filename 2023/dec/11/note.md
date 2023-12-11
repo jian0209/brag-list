@@ -28,6 +28,6 @@
 - Become product-minded
 	- A good software engineering thinks like a product manager.
 - Quotes
-	- “Sitting back and not asking for feedback is the worst thing you can do as an engineer. If you want to improve, there has to be a constant feedback loop.”
-	- “The brag list will also help jog your memory for writing resumes and answering behavior and technical deep dive interviews.”
-	- “Find opportunities and ask for them instead of waiting to be given.”
+	- “Sitting back and not asking for feedback is the worst thing you can do as an engineer. If you want to improve, there has to be a constant feedback loop.” — Ankur Tyagi
+	- “The brag list will also help jog your memory for writing resumes and answering behavior and technical deep dive interviews.” — Mike Thornton
+	- “Find opportunities and ask for them instead of waiting to be given.” — Anemari Fiser
