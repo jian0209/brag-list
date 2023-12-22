@@ -17,3 +17,4 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [The Value Of Repaying Good Technical Debts](./2023/dec/15/note.md#the-value-of-repaying-good-technical-debts)
 - [Name Checker(Tool)](./2023/dec/15/note.md#name-checkertool)
 - [How To Analyze Malware's Network Traffic In A Sandbox](./2023/dec/15/note.md#how-to-analyze-malwares-network-traffic-in-a-sandbox)
+- [Authentication and Authorization in Applications](./2023/dec/22/note.md#authentication-and-authorization-in-applications)
