@@ -18,3 +18,5 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Name Checker(Tool)](./2023/dec/15/note.md#name-checkertool)
 - [How To Analyze Malware's Network Traffic In A Sandbox](./2023/dec/15/note.md#how-to-analyze-malwares-network-traffic-in-a-sandbox)
 - [Authentication and Authorization in Applications](./2023/dec/22/note.md#authentication-and-authorization-in-applications)
+- [Prompt Engineering](./2023/dec/22/note.md#prompt-engineering)
+- [The Await Event Horizon In Javascript](./2023/dec/22/note.md#the-await-event-horizon-in-javascript)
