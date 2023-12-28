@@ -20,3 +20,7 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Authentication and Authorization in Applications](./2023/dec/22/note.md#authentication-and-authorization-in-applications)
 - [Prompt Engineering](./2023/dec/22/note.md#prompt-engineering)
 - [The Await Event Horizon In Javascript](./2023/dec/22/note.md#the-await-event-horizon-in-javascript)
+- [The 7 Rules For Successful Job Hopping In Data Engineering](./2023/dec/28/note.md#the-7-rules-for-successful-job-hopping-in-data-engineering)
+- [What's The Difference Between RANK(), DENSE_RANK(), And ROW_NUMBER()](./2023/dec/28/note.md#whats-the-difference-between-rank-dense_rank-and-row_number)
+- [The 100 Days Of Code Challange From FreeCodeCamp On 2024](./2023/dec/28/note.md#the-100-days-of-code-challange-from-freecodecamp-on-2024)
+- [Blind 75 Questions](./2023/dec/28/note.md#blind-75-questions)
