@@ -24,3 +24,10 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [What's The Difference Between RANK(), DENSE_RANK(), And ROW_NUMBER()](./2023/dec/28/note.md#whats-the-difference-between-rank-dense_rank-and-row_number)
 - [The 100 Days Of Code Challange From FreeCodeCamp On 2024](./2023/dec/28/note.md#the-100-days-of-code-challange-from-freecodecamp-on-2024)
 - [Blind 75 Questions](./2023/dec/28/note.md#blind-75-questions)
+
+## 2024 jan
+
+- [AI TOOLS THAT CAN HELP YOU SEARCH IN SHEET](./2024/jan/04/note.md#ai-tools-that-can-help-you-search-in-sheet)
+- [Doing Blog, Documentation? Try this tool](./2024/jan/04/note.md#doing-blog-documentation-try-this-tool)
+- [5 Ways To Reduce SaaS Security Risks](./2024/jan/04/note.md#5-ways-to-reduce-saas-security-risks)
+- [Sea Turtle Cyber Espionage Campaign Targets Dutch IT And Telecom Companies](./2024/jan/09/note.md#sea-turtle-cyber-espionage-campaign-targets-dutch-it-and-telecom-companies)
