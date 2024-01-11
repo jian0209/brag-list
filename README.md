@@ -31,3 +31,4 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Doing Blog, Documentation? Try this tool](./2024/jan/04/note.md#doing-blog-documentation-try-this-tool)
 - [5 Ways To Reduce SaaS Security Risks](./2024/jan/04/note.md#5-ways-to-reduce-saas-security-risks)
 - [Sea Turtle Cyber Espionage Campaign Targets Dutch IT And Telecom Companies](./2024/jan/09/note.md#sea-turtle-cyber-espionage-campaign-targets-dutch-it-and-telecom-companies)
+- [Top Technology Trends To Watch Out For In 2024 For Platform Engineering](./2024/jan/11/note.md#top-technology-trends-to-watch-out-for-in-2024-for-platform-engineering)
