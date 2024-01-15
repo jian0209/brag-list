@@ -32,3 +32,5 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [5 Ways To Reduce SaaS Security Risks](./2024/jan/04/note.md#5-ways-to-reduce-saas-security-risks)
 - [Sea Turtle Cyber Espionage Campaign Targets Dutch IT And Telecom Companies](./2024/jan/09/note.md#sea-turtle-cyber-espionage-campaign-targets-dutch-it-and-telecom-companies)
 - [Top Technology Trends To Watch Out For In 2024 For Platform Engineering](./2024/jan/11/note.md#top-technology-trends-to-watch-out-for-in-2024-for-platform-engineering)
+- [Critical RCE Vulnerability Uncovered In Jupiner SRX Firewalls And EX Switches](./2024/jan/15/note.md#critical-rce-vulnerability-uncovered-in-jupiner-srx-firewalls-and-ex-switches)
+- [Medusa Ransomware On The Rise: From Data Leaks To Multi-Extortion](./2024/jan/15/note.md#medusa-ransomware-on-the-rise-from-data-leaks-to-multi-extortion)
