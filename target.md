@@ -12,3 +12,10 @@
 - [ ] Application Monitoring (APM: New Relic, etc...)
 - [ ] Logs Management (ELK: Elasticsearch, Logstash, Kibana, Loki, etc...)
 
+# Idea
+- A tool to organize the time, Flowmodora
+  - Record the time you spent focusing.
+  - Calculate your break time as one-fifth of your focused work duration.
+  - Automate the process of Flowmodora.
+  - Check the timeline
+  - Report

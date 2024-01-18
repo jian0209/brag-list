@@ -33,3 +33,7 @@
   - The author of the artical has found a web app that automates the process of Flowmodoro.
   - [Flowmodor](https://flowmodor.com/)
   - [Github Flowmodor](https://github.com/flowmodor/flowmodor)
+
+# Tools: Personal Finance App
+
+[Maybe: Open-source personal finance app](https://github.com/maybe-finance/maybe?tab=readme-ov-file)
