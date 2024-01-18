@@ -34,3 +34,4 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Top Technology Trends To Watch Out For In 2024 For Platform Engineering](./2024/jan/11/note.md#top-technology-trends-to-watch-out-for-in-2024-for-platform-engineering)
 - [Critical RCE Vulnerability Uncovered In Jupiner SRX Firewalls And EX Switches](./2024/jan/15/note.md#critical-rce-vulnerability-uncovered-in-jupiner-srx-firewalls-and-ex-switches)
 - [Medusa Ransomware On The Rise: From Data Leaks To Multi-Extortion](./2024/jan/15/note.md#medusa-ransomware-on-the-rise-from-data-leaks-to-multi-extortion)
+- [Why pomodoro doesn't work? Try this alternative](./2024/jan/18/note.md#why-pomodoro-doesnt-work-try-this-alternative)

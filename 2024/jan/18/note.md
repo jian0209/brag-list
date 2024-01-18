@@ -32,3 +32,4 @@
 - Automate the process
   - The author of the artical has found a web app that automates the process of Flowmodoro.
   - [Flowmodor](https://flowmodor.com/)
+  - [Github Flowmodor](https://github.com/flowmodor/flowmodor)
