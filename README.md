@@ -35,3 +35,7 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Critical RCE Vulnerability Uncovered In Jupiner SRX Firewalls And EX Switches](./2024/jan/15/note.md#critical-rce-vulnerability-uncovered-in-jupiner-srx-firewalls-and-ex-switches)
 - [Medusa Ransomware On The Rise: From Data Leaks To Multi-Extortion](./2024/jan/15/note.md#medusa-ransomware-on-the-rise-from-data-leaks-to-multi-extortion)
 - [Why pomodoro doesn't work? Try this alternative](./2024/jan/18/note.md#why-pomodoro-doesnt-work-try-this-alternative)
+  
+## 2024 feb
+
+- [Researchers Approach New Speed Limit for Seminal Problem](./2024/feb/01/note.md#researchers-approach-new-speed-limit-for-seminal-problem)
