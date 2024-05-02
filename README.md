@@ -41,3 +41,5 @@ Pleaes feel free to give me some advice to improve the note structure, and the c
 - [Researchers Approach New Speed Limit for Seminal Problem](./2024/feb/01/note.md#researchers-approach-new-speed-limit-for-seminal-problem)
 
 ### The learning and the news reading will be temporarily stop, I am currently preparing the exam (2024 Jan - Now)
+
+### Moved to Own-built Doc website - Docusaurus (https://docs.xxx.com) (Planning to buy the domain name, cause i still on my saving road😃)
